@@ -1,6 +1,7 @@
 # Lord-of-the-Rings-the-Return-of-the-King-PC-Fix
 
 special note: this game has crashing issues when trying to play with an xbox contoller plugged into your computer
+so if you are experiencing crashing issues please disconect any xbox controllers and try the game again.
 
 This is the Lord of the Rings Return of the King fix d3d8 wrapper.
 
