@@ -1,5 +1,8 @@
 # Lord-of-the-Rings-the-Return-of-the-King-PC-Fix
 
+special note: this game has crashing issues when trying to play with an xbox contoller plugged into your co
+puter
+
 This is the Lord of the Rings Return of the King fix d3d8 wrapper.
 
 You will need to go to this website here - http://ps2wide.net/lpc.html : go to - list of patches for PC and scroll down to - The Lord of the Rings: The Return of the King and click download and follow the instructions you need,
