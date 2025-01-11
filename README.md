@@ -29,6 +29,8 @@ brought to you by Fix Enhancers
 
 we have changed the resolution part of the menu so that only shows the width as there was an issue with it showing incorrectly in full.
 
+https://fixenhancers.wixsite.com/fix-enhancers
+
 Team: 
 
 Chip, JokerAlex21, Blankname.
