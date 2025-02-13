@@ -1,5 +1,7 @@
 # Lord-of-the-Rings-the-Return-of-the-King-PC-Fix
 
+![rotk](https://github.com/user-attachments/assets/f91a8508-3f3e-400f-8181-8253e549e347)
+
 special note: this game has crashing issues when trying to play with an xbox contoller plugged into your computer
 so if you are experiencing crashing issues please disconect any xbox controllers and try the game again.
 
