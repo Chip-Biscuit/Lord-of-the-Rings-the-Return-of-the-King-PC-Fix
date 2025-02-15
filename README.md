@@ -2,39 +2,39 @@
 
 ![rotk](https://github.com/user-attachments/assets/f91a8508-3f3e-400f-8181-8253e549e347)
 
-special note: this game has crashing issues when trying to play with an xbox contoller plugged into your computer
-so if you are experiencing crashing issues please disconect any xbox controllers and try the game again.
+# Requirements before using fix
+For the Fix Enhancers fix to work properly **YOU MUST** download the amazing Nemesis2000 widescreen fix from here - http://ps2wide.net/lpc.html 
 
-This is the Lord of the Rings Return of the King fix d3d8 wrapper.
+Once you download the Nemesis2000 fix place the LOTRW.dll and LOTR.ini into the games install folder next to the ROTK.exe file. **DO NOT PLACE THE** d3d8.dll file from Nemesis2000 fix into the game install area as this is replaced by the Fix Enhancers d3d8.dll file instead.
 
-You will need to go to this website here - http://ps2wide.net/lpc.html : go to - list of patches for PC and scroll down to - The Lord of the Rings: The Return of the King and click download and follow the instructions you need,
-LOTRW.DLL and LOTR.INI copy and paste them into your game directory next to your ROTK.exe you must then use the D3D8.DLL and D3D8.INI from this fix along with those two files from the other fix, this will then fix widescreen properly but, 
-also include fps fix, fov fix, and all the other fixes in our dll along with nemesis2000 awesome widescreen fix! you can enter your screen resolution in LOTR.INI and you can change all other fix settings in D3D8.INI.  
+The Nemesis2000 fix will cover the resolution and aspect ratio side while the Fix Enhancers fix covers everything else.
 
-simply go to releases download lotrRotkfix.zip put the D3D8.DLL and D3D8.INI from this fix and LOTRW.DLL & LOTR.INI from nemesis2000 fix into your game folder next to the game exe and your good to go. 
+# Instructions
+Go to releases and download the latest lotrRotkfix.zip file, extract it and put the d3d8.dll and d3d8.ini into your game folder next to the ROTK.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
 
-resolution can be edited in LOTR.INI screen width and screen height this automatically calculates your aspect ratio.
+# Resolution/Aspect Ratio
+Open the LOTR.ini file and next to Width and Hight put your resolution for example (3840x2160). Not that once you boot up the game it will now be set to the correct resolution and aspect ratio. However, **DO NOT** change the resolution in the games graphics options and the resolution you put in the LOTR.ini file will not show up in the resolution list within the game which is normal.
 
-all other settings can be edited in D3D8.INI
+# FPS
+The default for FPS is (60) you can change it as you wish or fully uncap it with (0) with the FPSLimit option in the d3d8.ini file. The FPS has been limited to 120fps in this fix due to game breaking bugs going above 120fps.
 
-Default for FPS is 0 - 240ish max you can cap it as you wish in d3d8.ini.
+# FOV
+The default for FOV is (0) which is off, you can turn this on in the d3d8.ini by changing the (0) to (1). 
 
-Default for fov is 0 (off) you can turn it on in the ini with fov = 1 (on) this will slightly zoom out the fov in the game. this setting is only on or off in this fix.
+It is recommended that this is kept off by default due to FOV being quite broken in multiple areas of the game such as the level selection menu. You can use this setting, and it will be mostly ok during gameplay and will fix issues on higher resolutions where the camera goes inside the characters during cutscenes.
 
-If you have any issues please go to discord for help 
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/the-lord-of-the-rings-the-return-of-the-king 
 
-https://discord.gg/eVJ7sQH7Cc
+# Issues/Problems
+If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
-credit to Elisha Riedlinger for the base wrapper and 13 AG.
+Credits
 
-brought to you by Fix Enhancers 
+Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
 
-we have changed the resolution part of the menu so that only shows the width as there was an issue with it showing incorrectly in full.
+Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
 
-https://fixenhancers.wixsite.com/fix-enhancers
+Team:
 
-Team: 
-
-Chip, JokerAlex21, Blankname.
-
-credit to nemesis2000 for the awesome widescreen fix.
+Chip, JokerAlex21 and Blankname.
