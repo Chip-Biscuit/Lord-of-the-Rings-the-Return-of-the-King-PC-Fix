@@ -2,6 +2,8 @@
 
 ![rotk](https://github.com/user-attachments/assets/f91a8508-3f3e-400f-8181-8253e549e347)
 
+watch the official guide video here - https://youtu.be/PwNYVdbBBWg?si=oH_Nc8lonx2bT9GM
+
 # Requirements before using fix
 For the Fix Enhancers fix to work properly **YOU MUST** download the amazing Nemesis2000 widescreen fix from here - http://ps2wide.net/lpc.html 
 
