@@ -2,14 +2,14 @@
 
 ![rotk](https://github.com/user-attachments/assets/f91a8508-3f3e-400f-8181-8253e549e347)
 
-watch the official guide video here - https://youtu.be/PwNYVdbBBWg?si=oH_Nc8lonx2bT9GM
-
 # Requirements before using fix
 For the Fix Enhancers fix to work properly **YOU MUST** download the amazing Nemesis2000 widescreen fix from here - http://ps2wide.net/lpc.html 
 
 Once you download the Nemesis2000 fix place the LOTRW.dll and LOTR.ini into the games install folder next to the ROTK.exe file. **DO NOT PLACE THE** d3d8.dll file from Nemesis2000 fix into the game install area as this is replaced by the Fix Enhancers d3d8.dll file instead.
 
 The Nemesis2000 fix will cover the resolution and aspect ratio side while the Fix Enhancers fix covers everything else.
+
+watch the official guide video here - https://youtu.be/PwNYVdbBBWg?si=oH_Nc8lonx2bT9GM
 
 # Instructions
 Go to releases and download the latest lotrRotkfix.zip file, extract it and put the d3d8.dll and d3d8.ini into your game folder next to the ROTK.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
