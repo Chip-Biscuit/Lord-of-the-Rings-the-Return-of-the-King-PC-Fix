@@ -8,7 +8,15 @@ Once you download the Nemesis2000 fix place the LOTRW.dll and LOTR.ini into the 
 
 The Nemesis2000 fix will cover the resolution and aspect ratio side while the Fix Enhancers fix covers everything else.
 
-watch the official guide video here - https://youtu.be/PwNYVdbBBWg?si=oH_Nc8lonx2bT9GM
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://youtu.be/PwNYVdbBBWg?si=oH_Nc8lonx2bT9GM">
+  <img src="https://github.com/user-attachments/assets/01b8606b-0ed3-4ff5-8d29-c0b66f61f88b" alt="lotr" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
 
 # Instructions
 Go to releases and download the latest lotrRotkfix.zip file, extract it and put the d3d8.dll and d3d8.ini into your game folder next to the ROTK.exe file and you are good to go! You can edit the settings you wish to use in the d3d8.ini file.
