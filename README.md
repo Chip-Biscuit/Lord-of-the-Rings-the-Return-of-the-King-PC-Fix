@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Lord-of-the-Rings-the-Return-of-the-King-PC-Fix
 
 ![rotk](https://github.com/user-attachments/assets/f91a8508-3f3e-400f-8181-8253e549e347)
